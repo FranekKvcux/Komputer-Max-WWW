@@ -1,0 +1,23 @@
+:root {
+    --button-background: #355c9c;
+    --white-backgorund: #fdfdfd;
+}
+
+body {
+    margin: 0;
+    background-color: var(--white-backgorund);
+}
+
+a {
+    color: var(--white-backgorund);
+    text-decoration: none;
+}
+
+.static {
+    
+}
+
+.nav_button {
+    font-size: 20px;
+    background-color: var(--button-background);
+}
