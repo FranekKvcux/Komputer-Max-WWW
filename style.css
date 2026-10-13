@@ -13,8 +13,18 @@ a {
     text-decoration: none;
 }
 
+footer {
+    background-color: rgb(219, 219, 219);
+}
+
 .static {
-    
+    background-color: var(--white-backgorund);
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    z-index: 1000;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .nav_button {
