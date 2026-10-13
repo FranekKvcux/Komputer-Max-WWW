@@ -31,3 +31,7 @@ footer {
     font-size: 20px;
     background-color: var(--button-background);
 }
+
+#home {
+    scroll-margin-top: 120px;
+}
